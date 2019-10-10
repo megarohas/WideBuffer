@@ -5,8 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WideBuffer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="WideBuffer" Height="350" Width="525" Closed="WindowClosed" Loaded="WindowLoaded">
+    <Popup x:Name="Popup" AllowsTransparency="True" Placement="Absolute" Height="250" Width="400" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Grid Opacity="0.9" Background="Black">
+            <Grid Margin="25">
+                <Rectangle x:Name="Selector" Stroke="White" Height="36" VerticalAlignment="Top" Margin="0">
+                    <Rectangle.OpacityMask>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.8">
+                            <LinearGradientBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                    <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform Angle="90" CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </LinearGradientBrush.RelativeTransform>
+                            <GradientStop Offset="0"/>
+                            <GradientStop Offset="1"/>
+                            <GradientStop Color="White" Offset="0.5"/>
+                        </LinearGradientBrush>
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+                <StackPanel x:Name="MenuItems"></StackPanel>
+            </Grid>
+            <Label Foreground="#FF5F5F5F" Content="Wide Buffer created by GG corp." VerticalAlignment="Bottom" Margin="0,0,0,10" FontSize="10" Padding="0" Grid.IsSharedSizeScope="True" HorizontalContentAlignment="Center" />
+        </Grid>
+
+    </Popup>
 </Window>

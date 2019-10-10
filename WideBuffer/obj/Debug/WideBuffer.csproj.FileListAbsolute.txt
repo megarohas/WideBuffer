@@ -1,0 +1,48 @@
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\bin\Debug\WideBuffer.exe.config
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\bin\Debug\WideBuffer.exe
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\bin\Debug\WideBuffer.pdb
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\MainWindow.g.cs
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\App.g.cs
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer_MarkupCompile.cache
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer_MarkupCompile.lref
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\MainWindow.baml
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer.g.resources
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer.Properties.Resources.resources
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer.csproj.GenerateResource.Cache
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer.exe
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\obj\Debug\WideBuffer.pdb
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\bin\Debug\WindowsInput.dll
+C:\Users\rohas\Google Диск\Проги\КМЗИ\WideBuffer\WideBuffer\bin\Debug\WindowsInput.xml
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\bin\Debug\WideBuffer.exe.config
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer.exe
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer.pdb
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\MainWindow.g.cs
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\App.g.cs
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer_MarkupCompile.cache
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer_MarkupCompile.lref
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\bin\Debug\WideBuffer.exe
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\bin\Debug\WideBuffer.pdb
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\bin\Debug\WindowsInput.dll
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\bin\Debug\WindowsInput.xml
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\MainWindow.baml
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer.g.resources
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer.Properties.Resources.resources
+D:\GoogleDrive\Dev\Visual Studio\c#\WideBuffer\WideBuffer\obj\Debug\WideBuffer.csproj.GenerateResource.Cache
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Debug\WideBuffer.exe.config
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer.exe
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer.pdb
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Debug\WideBuffer.exe
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Debug\WideBuffer.pdb
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Debug\WindowsInput.dll
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Debug\WindowsInput.xml
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\MainWindow.g.cs
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\App.g.cs
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer_MarkupCompile.cache
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer_MarkupCompile.lref
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\MainWindow.baml
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer.g.resources
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer.Properties.Resources.resources
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Debug\WideBuffer.csproj.GenerateResource.Cache

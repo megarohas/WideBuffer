@@ -1,0 +1,16 @@
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Release\WideBuffer.exe.config
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Release\WideBuffer.exe
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Release\WideBuffer.pdb
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Release\WindowsInput.dll
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\bin\Release\WindowsInput.xml
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\MainWindow.g.cs
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\App.g.cs
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer_MarkupCompile.cache
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer_MarkupCompile.lref
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\MainWindow.baml
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer.g.resources
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer.Properties.Resources.resources
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer.csproj.GenerateResource.Cache
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer.exe
+C:\Users\rohas\Desktop\WideBuffer\WideBuffer\WideBuffer\obj\Release\WideBuffer.pdb
